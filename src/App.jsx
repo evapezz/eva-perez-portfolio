@@ -23,7 +23,7 @@ const developmentProjects = [
     description:
       'Proyecto web gastronómico realizado con WordPress y Elementor, con especial atención a la estructura de contenidos, navegación, responsive y posicionamiento.',
     tech: ['WordPress', 'Elementor', 'SEO', 'Contenidos'],
-    href: 'https://elgourmetdelaabuela.com',
+    href: 'http://elgourmetdelaabuela.com',
     label: 'Desarrollo web',
   },
   {
