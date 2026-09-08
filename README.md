@@ -2,7 +2,10 @@
 
 Portfolio personal creado con React + Vite.
 
-## Desarrollo local
+## En vercel (provisional)
+https://eva-perez-portfolio.vercel.app/
+
+### Desarrollo local
 
 ```bash
 npm install
